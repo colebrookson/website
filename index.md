@@ -8,9 +8,6 @@ title: "Home"
     #caption: "Photo by [Joel Filipe](https://unsplash.com/@joelfilip) on [Unsplash](https://unsplash.com)"
 classes: wide
 
-sidebar:
-  nav: "sessions"
-
 ---
 
 
