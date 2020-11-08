@@ -1,8 +1,8 @@
-# Introduction to Programming in Python for Biology
+# My Website
 
-This is the code for the website hosting the content for the 2020 Fall workshop series being held in the BioSci department at UAlberta. Any questions about the course or the website can be directed to brookson@ualberta.ca
+This website will be a mix of a place to document research stuff, teaching, as well as some tutorials/software stuff. RE: anything you find on this site that is mine, please use it in accordance with the licence below. 
 
-Please feel free to use and borrow the content of this course according to the licence below. The website for this course is based on the [Minimal Mistakes](https://github.com/mmistakes/minimal-mistakes) theme which is licenced itself. For code relating to the website, please consult their page. 
+This website based on the [Minimal Mistakes](https://github.com/mmistakes/minimal-mistakes) theme which is licenced itself. For code relating to the website, please consult their page.
 
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
