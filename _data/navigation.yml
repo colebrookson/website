@@ -1,11 +1,11 @@
 main:
+  - title: "Home"
+    url: /
   - title: "Research"
     url: /research/
   - title: "Publications"
     url: /publications/
   - title: "CV"
-    url: /cv/
-  - title: "Contact"
-    url: /contact/
+    url: https://colebrookson.com/CV/brookson_cv_nov2020.pdf
   - title: "Software"
     url: /software/
