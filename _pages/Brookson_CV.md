@@ -1,7 +1,7 @@
 ---
-permalink: /contact/
+permalink: /CV/
 layout: single
-title: Contact Us
+title: CV
 author_profile: false
 classes: wide
 sidebar:
@@ -18,12 +18,12 @@ sidebar:
 ## **EDUCATION**
 
 **MSc in Ecology** (2019-2021)
-
 University of Alberta, Alberta, Canada  
 *Supervisor:* Dr. Stephanie J. Green
 
 **BSc (Hons) Ecology & Evolutionary Biology** (2014-2019)  
-University of Toronto, Ontario, Canada  
+University of Toronto, Ontario, Canada
+*Supervisors:* Drs. Martin Krkošek,  Marie-Josée Fortin, Chelsea Rochman
 *Minor:* Environmental Biology  
 *Minor:* Forest Conservation Science  
 -------------------     ----------------------------
@@ -32,7 +32,7 @@ University of Toronto, Ontario, Canada
 
 Bodner, K., Rauen Firkowski, C., Bennett, J., **Brookson, C.**, Dietze, M., Green, S. ... Fortin,M.-J. (*Submitted*). Bridging the divide between ecological forecasts and environmental decision-making. *Ecosphere.*
 
-Green, S.J., **Brookson, C.B.**, Hardy, N., Crowder, L.B. (*Submitted*). Trait-based approaches to global change ecology: from description to prediction, *Proceedings of the Royal Society B: Biological Sciences*
+Green, S.J., **Brookson, C.B.**, Hardy, N., Crowder, L.B. (*In Review*). Trait-based approaches to global change ecology: from description to prediction, *Proceedings of the Royal Society B: Biological Sciences*
 
 **Brookson, C.B.**, Kirk, D., Rochman, C.M. (*In Revisions*). Combining ecotoxicology and classic ecological
 models to predict the effects of microplastics on the growth and viability of aquatic populations. *Ecology and
@@ -60,23 +60,25 @@ Rethinking Microplastics as a Diverse Contaminant Suite. *Environmental Toxicolo
 
 Conceptualized a topic and project for an undergraduate research thesis and then supervised the completion of that thesis, assisting with timeline planning, method development, writing and presentation, and skills development. This included advising the student in statistics, programming techniques, scientific philosophy, and writing.
 
-**Teaching Assistant, Principles of Ecology (BIOL208)** - Winter 2021
+**Teaching Assistant, "Principles of Ecology" (BIOL208)** - Winter 2021
 
 Ran lab sections for 12 separate sections of students, instructing on general ecological principles as well as specific lab skills. Grading responsibilities included marking >80 final lab reports.
 
-**Instructor, Workshop Series: Reproducible Methods for Biological Research** - Spring 2021
+**Instructor, Workshop Series: "Reproducible Methods for Biological Research"** - Spring 2021
 
 Developed content and individual lesson plans for a 7-week workshop series introducing graduate students and professionals to methods for making biological research reproducible. Instruction was given on the use of version control (i.e. Git/GitHub), script management, container software (i.e. Docker, Singularity), parallel computing, distributed computing, and cloud computing.
 
-**Instructor, Workshop Series: Introduction to Programming in R/RStudio for Biology** - Winter 2019 & Fall 2020
+**Instructor, Workshop Series: "Introduction to Programming in R/RStudio for Biology"** - Winter 2019 & Fall 2020
 
 Developed content and individual lesson plans for a 5-week workshop to teach undergraduate students tools for data management and manipulation, best practices in script management, foundational programming skills, and data visualization. Delivered and co-taught a mixed asynchronous/synchronous remote lecture mixture to accommodate students. Built and maintained a website for course website. Created stand-alone reference documents and live-coded videos for the series.
 
-**Instructor, Workshop Series: Introduction to Programming in Python for Biology** - Fall 2020
+**Instructor, Workshop Series: "Introduction to Programming in Python for Biology"** - Fall 2020
 
 Developed content and individual lesson plans for a 5-week workshop to teach undergraduate students tools for data management and manipulation, best practices in script management, foundational programming skills, and data visualization in Python. Delivered and co-taught a mixed asynchronous/synchronous remote lecture mixture to accommodate students. Built and maintained a website for course website. Created stand-alone reference documents and live-coded videos for the series.
 
-In addition to the above positions, I have delivered over 30 science outreach talks to community groups, schools and student groups, incarcerated peoples, and retirement facilities, on topics including climate change, evolution, plastic pollution, marine ecosystems, and coral reef conservation between 2018 and 2021. I currently sit on the committee for Education & Outreach for the Society for Open and Reproducible Ecology & Evolution (SORTEE), and I am a certified Data & Software Carpentries instructor. I regularly host live-streams to teach coding & programming skills on the streaming platform Twitch, and have been involved for years in teaching and coaching youth. At the University of Alberta in 2019/20, I participated in the Graduate Student Peer Tutor program through the First Peoples House, tutoring fellow graduate students in computing science, statistics, and ecological modeling. I also sat on the 2020/21 Courses & Curriculums Committee in the dept. of Biological Sciences. Additionally, I have held multiple leadership positions in education-based organizations/initiatives (listed below in "Community & Leadership").
+*Teaching Statement* 
+
+In addition to the above positions, I have delivered over 30 science outreach talks to community groups, schools and student groups, incarcerated peoples, and retirement facilities, on topics including climate change, evolution, plastic pollution, marine ecosystems, and coral reef conservation between 2018 and 2021. I currently sit on the committee for Education & Outreach for the Society for Open and Reproducible Ecology & Evolution (SORTEE), and I am a certified Data & Software Carpentries instructor. I regularly host live-streams to teach coding & programming skills on the streaming platform Twitch, and have been involved for years in teaching and coaching youth, both academically and athletically. At the University of Alberta in 2019/20, I participated in the Graduate Student Peer Tutor program through the First Peoples House, tutoring fellow graduate students in computing science, statistics, and ecological modeling. I also sat on the 2020/21 Courses & Curriculums Committee in the dept. of Biological Sciences, and previously served on a search committee for a teaching-stream Faculty member at the University of Toronto, dept. of Ecology & Evolutionary Biology. Additionally, I have held multiple leadership positions in education-based organizations/initiatives (listed below in "Community & Leadership").
 
 -------------------     ----------------------------
 
@@ -96,7 +98,7 @@ In addition to the above positions, I have delivered over 30 science outreach ta
 
 **A** - Dept. of Biological Sciences Recruitment Scholarship (**5,000 CAD**), University of Alberta - 2019
 
-**R** - Best Conservation &; Ecology Poster, Runner Up (non-monetary) University of Toronto EEB Research Fair - 2019
+**R** - Best Conservation & Ecology Poster (non-monetary) University of Toronto EEB Research Fair - 2019
 
 **F** - Undergraduate Research Fund (**2,000 CAD**), University of Toronto - 2019
 
@@ -119,48 +121,63 @@ In addition to the above positions, I have delivered over 30 science outreach ta
 ## COMMUNITY AND LEADERSHIP
 
 **Education & Outreach Committee Member - Society for Open and Reproducible Ecology & Evolution** (Sept 2020 - Present)
+
 This committee focuses on directing outreach and education initiatives towards members of the scientific community to promote open and accessible research in ecology and evolution. I contribute to program development, annual meeting programming, and developing online resources.
 
 **Courses & Curriculums Committee Member - Dept. of Biological Sciences, UAlberta** (Sept 2020 - May 2021)
+
 Served on committee that oversees and directs the course offerings in the department of Biological Sciences at the University of Alberta. I reviewed proposed course and curricula changes, and provided feedback and development of program development overall.
 
 **Graduate Student Peer Tutor - First Peoples House, UAlberta** (Nov 2019 - May 2020)
+
 Tutored fellow graduate students in the Department of Biological Sciences, in computing science, statistics, and ecological modeling.
 
 **Graduate Student Organizer - Quantitative Ecology Group, UAlberta** (Sept 2019 - May 2020)
+
 Initiated and organized a bi-weekly meeting of quantitative ecologists for discussions surrounding methods, best practices, and general ideas in mathematical and statistical ecology.
 
 **Outreach Scientist - Skype a Scientist Foundation** (Oct 2019 - Present)
+
 Volunteered as an outreach ambassador, using Skype to connect with classrooms worldwide to speak to children about aquatic/marine ecology and my work as a researcher.
 
 **RE Peter Biological Science Conference Organizing Committee Member - UAlberta** (Sept 2019 - March 2020)
+
 Acted as a committee member in charge of planning, logistics, speaker liaising, and execution of the RE Peter Conference, an annual conference in the department.
 
 **Student Mentor & Tutor - Golden Mentors** (Sept 2019 - April 2020)
+
 Volunteered tutoring high school students in mathematics, biology, calculus, and computer programming.
 
 **Atwood Colloquium Organizer - UToronto** (April 2018 & 2019)
+
 Various logistics for the departmental in-house conference (prepare refreshments, set up and tear down conference venue).
 
 **Student Experience Mentor - UToronto Student Experience Mentorship Program** (Feb 2019 - April 2019)
+
 Acted as a mentor to a member of the University of Toronto’s Student Life staff, helping to bridge the gap between students and staff/faculty and providing insight on the student experience at U of T and how it could be improved.
 
 **Undergraduate Peer Mentor - UToronto Ecology & Evolutionary Biology Peer Mentorship Program** (Sept 2018 - April 2019)
+
 Mentored two 2 nd year undergraduate students, advising them on course selection, gaining research experience, and getting the most out of their undergraduate experience. Additionally, acted as an ambassador for potential members of the program, and promoted it within the university.
 
 **Student Facilitator - UToronto Ecology & Evolutionary Biology Conservation Sub-group** (Sept 2018 - April 2018)
+
 Participated in discussions and facilitated community partnerships with local outreach initiatives to promote public awareness of conservation issues and support citizen science.
 
 **Undergraduate Evaluation Faculty Search Committee Group Member - UToronto Ecology & Evolutionary Biology Dept.** (Nov 2018)
+
 Assisted with the review process of tenure-track applications for a teaching stream faculty member in the department of Ecology & Evolutionary Biology.
 
 **Outreach Team Member - UofT Trash Team** (Sept 2018 - April 2020)
+
 Develop and present education outreach material about plastic pollution problems and solutions to groups of interested community groups.
 
 **Outreach Program Leader - Ontario BioBlitz** (May 2018)
+
 Developed and presented educational outreach material about plastic pollution to members of the public and members of the BioBlitz team.
 
 **Treasurer - UToronto Forestry Undergraduate Student Union** (Sept 2017 - 2018)
+
 Maintained a balanced budget for a student-run, not-for-profit group.
 
 -------------------     ----------------------------
@@ -182,7 +199,7 @@ Dept. of Ecology & Evolutionary Biology, University of Toronto
 * Performed data wrangling and cleaning tasks for large ecological datasets
 
 **Independent Research Project** (Sept 2018 - April 2019)  
-Supervisor: Dr. Martin Krkošek  
+Supervisor: Dr. Martin Krkošek   
 Dept. of Ecology & Evolutionary Biology, University of Toronto  
 
 * Conducted a study investigating the differences in ectoparasite communities of juvenile Pacific Salmon species
@@ -214,9 +231,13 @@ Dept. of Ecology & Evolutionary Biology, University of Toronto
 *Manuscript reviewer for:* Conservation Biology, Journal of Fish Biology, Proceedings of the Royal Society, Biology
 
 *Professional societies:*
+
 Canadian Society for Ecology & Evolution (CSEE)
+
 Ecological Society of America (ESA)
+
 American Fisheries Society (AFS)
+
 Society for Open and Reproducible Ecology & Evolution (SORTEE)
 
 -------------------     ----------------------------
