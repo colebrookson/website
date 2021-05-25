@@ -54,6 +54,21 @@ Rethinking Microplastics as a Diverse Contaminant Suite. *Environmental Toxicolo
 
 -------------------     ----------------------------
 
+## **TEACHING & SUPERVISION**
+
+**Teaching Assistant, Principles of Ecology (BIOL208)** - Winter 2021
+Ran lab sections for 12 separate sections of students, instructing on general ecological principles as well as specific lab skills. Grading responsibilities included marking >80 final lab reports. 
+
+**Instructor, Workshop Series: Introduction to Programming in R/RStudio for Biology** - Fall 2020
+Developed content and individual lesson plans to teach undergraduate students tools for data management and manipulation, best practices in script management, foundational programming skills, and data visualization. Delivered and co-taught a mixed asynchronous/synchronous remote lecture mixture to accommodate students. Built and maintained a website for course website. Created stand-alone reference documents and live-coded videos for the series. 
+
+**Instructor, Workshop Series: Introduction to Programming in Python for Biology** - Fall 2020
+Developed content and individual lesson plans to teach undergraduate students tools for data management and manipulation, best practices in script management, foundational programming skills, and data visualization in Python. Delivered and co-taught a mixed asynchronous/synchronous remote lecture mixture to accommodate students. Built and maintained a website for course website. Created stand-alone reference documents and live-coded videos for the series. 
+
+
+
+-------------------     ----------------------------
+
 ## **AWARDS (A), RECOGNITION (R), & RESEARCH FUNDING (F)**
 
 **A** - Martin J. Paetz Memorial Graduate Award in Fisheries Management (**6,100 CAD**) - 2021
@@ -106,10 +121,28 @@ Dept. of Ecology & Evolutionary Biology, University of Toronto
 * Assisted with spatial analysis and data management for a long-term ecological monitoring project
 * Performed data wrangling and cleaning tasks for large ecological datasets
 
-**Independent Research Project** (spet 2018 - April 2019)  
+**Independent Research Project** (Sept 2018 - April 2019)  
 Supervisor: Dr. Martin Krkošek  
 Dept. of Ecology & Evolutionary Biology, University of Toronto  
 
 * Conducted a study investigating the differences in ectoparasite communities of juvenile Pacific Salmon species
 
+**Independent Research Project** (Sept 2018 - April 2019)  
+Supervisor: Dr. Chelsea Rochman  
+Dept. of Ecology & Evolutionary Biology, University of Toronto  
 
+* Conducted a study investigating the effects of plastic debris exposure on the population dynamics of a
+freshwater invertebrate, *Daphnia magna*
+
+**Work-Study Student** (Sept 2018 - Feb 2019)
+Supervisor: Dr. Marie-Josée Fortin
+Dept. of Ecology & Evolutionary Biology, University of Toronto
+
+* Assisted with spatial analysis of ecological and oceanographic data to inform Marine Protected Area
+design
+
+**Research Assistant** (Oct 2017 - Sept 2018)
+Supervisor: Dr. Chelsea Rochman
+Dept. of Ecology & Evolutionary Biology, University of Toronto
+
+* Conducted multiple lab studies on incidence of microplastics in aquatic ecosystems 
