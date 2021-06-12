@@ -8,7 +8,7 @@ sidebar:
   nav: "sessions"
 ---
 
-# Cole B. Brookson 
+# Cole B. Brookson
 -------------------     ----------------------------
 **Tel:** 613-296-0001
 
@@ -75,10 +75,6 @@ Developed content and individual lesson plans for a 5-week workshop to teach und
 **Instructor, Workshop Series: "Introduction to Programming in Python for Biology"** - Fall 2020
 
 Developed content and individual lesson plans for a 5-week workshop to teach undergraduate students tools for data management and manipulation, best practices in script management, foundational programming skills, and data visualization in Python. Delivered and co-taught a mixed asynchronous/synchronous remote lecture mixture to accommodate students. Built and maintained a website for course website. Created stand-alone reference documents and live-coded videos for the series.
-
-*Teaching Statement* 
-
-In addition to the above positions, I have delivered over 30 science outreach talks to community groups, schools and student groups, incarcerated peoples, and retirement facilities, on topics including climate change, evolution, plastic pollution, marine ecosystems, and coral reef conservation between 2018 and 2021. I currently sit on the committee for Education & Outreach for the Society for Open and Reproducible Ecology & Evolution (SORTEE), and I am a certified Data & Software Carpentries instructor. I regularly host live-streams to teach coding & programming skills on the streaming platform Twitch, and have been involved for years in teaching and coaching youth, both academically and athletically. At the University of Alberta in 2019/20, I participated in the Graduate Student Peer Tutor program through the First Peoples House, tutoring fellow graduate students in computing science, statistics, and ecological modeling. I also sat on the 2020/21 Courses & Curriculums Committee in the dept. of Biological Sciences, and previously served on a search committee for a teaching-stream Faculty member at the University of Toronto, dept. of Ecology & Evolutionary Biology. Additionally, I have held multiple leadership positions in education-based organizations/initiatives (listed below in "Community & Leadership").
 
 -------------------     ----------------------------
 
