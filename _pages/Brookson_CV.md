@@ -30,13 +30,13 @@ University of Toronto, Ontario, Canada
 
 ## **PUBLICATIONS**
 
-Bodner, K., Rauen Firkowski, C., Bennett, J., **Brookson, C.**, Dietze, M., Green, S. ... Fortin,M.-J. (*Submitted*). Bridging the divide between ecological forecasts and environmental decision-making. *Ecosphere.*
-
 Green, S.J., **Brookson, C.B.**, Hardy, N., Crowder, L.B. (*In Review*). Trait-based approaches to global change ecology: from description to prediction, *Proceedings of the Royal Society B: Biological Sciences*
 
 **Brookson, C.B.**, Kirk, D., Rochman, C.M. (*In Revisions*). Combining ecotoxicology and classic ecological
 models to predict the effects of microplastics on the growth and viability of aquatic populations. *Ecology and
 Evolution.*  
+
+Bodner, K., Rauen Firkowski, C., Bennett, J., **Brookson, C.**, Dietze, M., Green, S. ... Fortin,M.-J. (*2021*). Bridging the divide between ecological forecasts and environmental decision-making. *Ecosphere.*
 
 Linardich, C., **Brookson, C.B.**, Green, S.J., (*2021*). Trait-based vulnerability reveals hot spots of
 potential impact for a global marine invader. *Global Change Biology.*
