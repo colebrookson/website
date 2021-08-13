@@ -90,20 +90,19 @@ tag_archive:
 author:
   name: "Cole B. Brookson"
   avatar: "/assets/images/cole.jpg"
-  bio: "University of Alberta
-        Dept. of Biological Sciences
-        Edmonton, AB"
-  location: "Toronto, ON & Edmonton, AB"
+  bio: "University of Alberta \n
+        Dept. of Biological Sciences"
+  location: "Toronto, ON "
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:cole.brookson@gmail.com
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/cole_brookson"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/colebrookson/"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/cole_brookson"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://linkedin.com/in/cole-brookson/"
