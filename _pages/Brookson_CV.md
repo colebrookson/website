@@ -80,6 +80,8 @@ Developed content and individual lesson plans for a 5-week workshop to teach und
 
 ## **AWARDS (A), RECOGNITION (R), & RESEARCH FUNDING (F)**
 
+**A** - Donald M. Ross Excellence Scholarship (**3,000 CAD**) - 2021
+
 **A** - Martin J. Paetz Memorial Graduate Award in Fisheries Management (**6,100 CAD**) - 2021
 
 **A** - Peter A. Larkin Award for Excellence in Fisheries (**400 CAD**) - 2020
