@@ -11,7 +11,7 @@ classes: wide
 ---
 
 
-## Welcome!
+## Welcome! **Please Note: This website is till under construction :)**
 
 I am a computational ecologist interested in networks, food webs, disease transmission, and how to do things on computers. I'm currently a MSc student in [Dr. Stephanie Green's lab](https://greenlab.ca/about/) at the University of Alberta. While this website is primarily for hosting information about my research, I also write tutorials and 'how-to' documents for doing fun things in Julia, Python, R, and whatever else strikes my fancy, which you can find [here](/software/).
 
