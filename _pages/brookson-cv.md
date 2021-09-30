@@ -1,34 +1,32 @@
 ---
-permalink: /CV/
-layout: single
-title: CV
-author_profile: false
-classes: wide
-sidebar:
-  nav: "sessions"
+title: "Cole B. Brookson CV"
+date: "2021-09-25"
 ---
 
-# Cole B. Brookson
--------------------     ----------------------------
+# Cole Brookson
 **Tel:** 613-296-0001
-
- **Email:**: cole.brookson@gmail.com
+**Email:** cole.brookson@gmail.com
 -------------------     ----------------------------
-
 ## **EDUCATION**
 
-**MSc in Ecology** (2019-2021)
+**MSc in Ecology** (2019-2021) - 4.0 GPA
 University of Alberta, Alberta, Canada  
 *Supervisor:* Dr. Stephanie J. Green
+*Committee:* Dr. Mark A. Lewis
 
-**BSc (Hons) Ecology & Evolutionary Biology** (2014-2019)  
+**Thesis**: "Trait-based models to inform network food web rewiring under global change"
+
+**BSc (Hons) Ecology & Evolutionary Biology** (2014-2019)
 University of Toronto, Ontario, Canada
-*Supervisors:* Drs. Martin Krkošek,  Marie-Josée Fortin, Chelsea Rochman
-*Minor:* Environmental Biology  
-*Minor:* Forest Conservation Science  
+*Minor:* Environmental Biology; *Minor:* Forest Conservation Science  
+* EEB499-Independent Research Project 2018-2019. Supervisor: Dr. Martin Krkošek. Investigating the differences in ectoparasite communities of juvenile Pacific Salmon species
+* EEB397-Independent Research Project 2018-2019. Supervisor: Dr. Chelsea Rochman. Investigating the effects of plastic debris exposure on the population dynamics of a freshwater invertebrate, Daphnia magna
+* EEB498-Independent Research Project 2017-2018. Supervisor: Dr. Marie-Josée Fortin. Determining the impact of climate and land cover change on beta diversity patterns on birds in Ontario
 -------------------     ----------------------------
 
 ## **PUBLICATIONS**
+
+### **In review, or revisions**
 
 Green, S.J., **Brookson, C.B.**, Hardy, N., Crowder, L.B. (*In Review*). Trait-based approaches to global change ecology: from description to prediction, *Proceedings of the Royal Society B: Biological Sciences*
 
@@ -36,25 +34,31 @@ Green, S.J., **Brookson, C.B.**, Hardy, N., Crowder, L.B. (*In Review*). Trait-b
 models to predict the effects of microplastics on the growth and viability of aquatic populations. *Ecology and
 Evolution.*  
 
-Bodner, K., Rauen Firkowski, C., Bennett, J., **Brookson, C.**, Dietze, M., Green, S. ... Fortin,M.-J. (*2021*). Bridging the divide between ecological forecasts and environmental decision-making. *Ecosphere.*
+### **Published or Accepted**
+
+Bodner, K., Rauen Firkowski, C., Bennett, J., **Brookson, C.**, Dietze, M., Green, S. ... Fortin,M.-J. (*In Press*). Bridging the divide between ecological forecasts and environmental decision-making. *Ecosphere.*
 
 Linardich, C., **Brookson, C.B.**, Green, S.J., (*2021*). Trait-based vulnerability reveals hot spots of
-potential impact for a global marine invader. *Global Change Biology.*
+potential impact for a global marine invader. *Global Change Biology.* *27(18)*. 4322-4338.
 
 **Brookson C.B.**, Krkošek, M., Hunt, B.P.V., Johnson, B.T., Rodgers, L.A., Godwin, S.C. (*2020*). Differential
 infestation of juvenile Pacific salmon by parasitic sea lice in British Columbia, Canada. *Canadian Journal of
-Fisheries and Aquatic Sciences.*
+Fisheries and Aquatic Sciences.* *77(12)*, 1960-1968.
 
 **Brookson, C.B.**, de Solla, S.J., Fernie, K.J., Cepeda, M., Rochman, C.M. (*2019*). Microplastics in the diet of
 an obligate piscivore, double-crested cormorants (*Phalacrocorax auratus*), in a freshwater ecosystem.
-*Canadian Journal of Fisheries and Aquatic Sciences.*
+*Canadian Journal of Fisheries and Aquatic Sciences.* *76(11)*, 2156-2163.
 
 Rochman, C.M., **Brookson C.B.**, Bikker, J., Djuric, N., Earn, A., Bucci, K., Athey, S., ... , Borrelle, S. (*2019*).
-Rethinking Microplastics as a Diverse Contaminant Suite. *Environmental Toxicology & Chemistry*
+Rethinking Microplastics as a Diverse Contaminant Suite. *Environmental Toxicology & Chemistry.* *38(4)*, 703-711.
 
 -------------------     ----------------------------
 
 ## **TEACHING & SUPERVISION**
+
+**Teaching Assistant, “Marine Population Ecology & Dynamics”** - Fall 2021 - Bamfield Marine Sciences Centre
+
+Developed course materials including lectures, computer labs, and field trips alongside the course instructor, for a three-week intensive population ecology course. I also built a course website with an automatic autograder and facilitated a plan to film and edit all lectures/field trips with the purpose of putting all course content online, freely available for anyone interested.
 
 **Undergraduate Thesis Supervision (BIOL499)** - Fall 2020/Winter 2021
 
@@ -196,19 +200,6 @@ Dept. of Ecology & Evolutionary Biology, University of Toronto
 * Assisted with spatial analysis and data management for a long-term ecological monitoring project
 * Performed data wrangling and cleaning tasks for large ecological datasets
 
-**Independent Research Project** (Sept 2018 - April 2019)  
-Supervisor: Dr. Martin Krkošek   
-Dept. of Ecology & Evolutionary Biology, University of Toronto  
-
-* Conducted a study investigating the differences in ectoparasite communities of juvenile Pacific Salmon species
-
-**Independent Research Project** (Sept 2018 - April 2019)  
-Supervisor: Dr. Chelsea Rochman  
-Dept. of Ecology & Evolutionary Biology, University of Toronto  
-
-* Conducted a study investigating the effects of plastic debris exposure on the population dynamics of a
-freshwater invertebrate, *Daphnia magna*
-
 **Work-Study Student** (Sept 2018 - Feb 2019)
 Supervisor: Dr. Marie-Josée Fortin
 Dept. of Ecology & Evolutionary Biology, University of Toronto
@@ -221,6 +212,34 @@ Supervisor: Dr. Chelsea Rochman
 Dept. of Ecology & Evolutionary Biology, University of Toronto
 
 * Conducted multiple lab studies on incidence of microplastics in aquatic ecosystems
+
+**Volunteer Research Assistant** (March 2018 – July 2018) 
+Supervisor: Dr. Benjamin Gilbert (Kaitlyn Brown) 
+Department of Ecology & Evolutionary Biology, University of Toronto
+* Assisted with data collection and analysis for a community ecology experiment examining the effects of species assemblage on plant fitness
+* Managed other undergraduate assistants and coordinated data collection
+
+**Volunteer Research Assistant** (Sept. 2017 – July 2018) 
+Supervisor: Dr. Luke Mahler (Christopher Boccia) 
+Department of Ecology & Evolutionary Biology, University of Toronto
+* Performed morphometric landmark analysis and data management and manipulation to investigate how adaptive traits can be used to build an Anolis lizard phylogeny 
+
+**Work-Study Student** (Sept. 2017 – Feb. 2018) 
+Supervisor: Dr. Benjamin Gilbert (Denon Start) 
+Department of Ecology & Evolutionary Biology, University of Toronto, ON
+* Assisted with data collection and analysis for a community ecology experiment looking at the effects of species assemblage on plant fitness
+
+**Field Research Assistant** (May 2017 – Sept. 2017) 
+Supervisor: Dr. Spencer Barrett (David Timerman)
+University of Toronto – Koffler Scientific Reserve at Jokers Hill, Newmarket, ON
+* Assisted with experimental design, set-up and management of a study looking at the reproductive responses to sex ratio treatments
+* Conducted data entry and management tasks including organizing and analyzing large datasets
+
+**Volunteer Lab Assistant** (Sept. 2016 – April 2017) 
+Supervisor: Dr. Spencer Barrett (David Timerman/Chris Balogh) 
+Department of Ecology & Evolutionary Biology, University of Toronto, ON
+* Assisted with greenhouse and lab duties related to maintaining plant stocks and data collection 
+* Performed data analysis and management tasks for a variety of experimental datasets
 
 -------------------     ----------------------------
 
