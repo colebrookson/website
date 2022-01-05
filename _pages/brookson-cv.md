@@ -36,7 +36,7 @@ Evolution.*
 
 ### **Published or Accepted**
 
-Bodner, K., Rauen Firkowski, C., Bennett, J., **Brookson, C.**, Dietze, M., Green, S. ... Fortin,M.-J. (*In Press*). Bridging the divide between ecological forecasts and environmental decision-making. *Ecosphere.*
+Bodner, K., Rauen Firkowski, C., Bennett, J., **Brookson, C.**, Dietze, M., Green, S. ... Fortin,M.-J. (*2021*). Bridging the divide between ecological forecasts and environmental decision-making. *Ecosphere.*
 
 Linardich, C., **Brookson, C.B.**, Green, S.J., (*2021*). Trait-based vulnerability reveals hot spots of
 potential impact for a global marine invader. *Global Change Biology.* *27(18)*. 4322-4338.
@@ -84,6 +84,10 @@ Developed content and individual lesson plans for a 5-week workshop to teach und
 
 ## **AWARDS (A), RECOGNITION (R), & RESEARCH FUNDING (F)**
 
+**A** - D Alan Birdsall Memorial Scholarship (**7,000 CAD**), University of Alberta - 2022
+
+**A** - Alberta Graduate Excellence Scholarship (**12,000 CAD**), University of Alberta - 2021
+
 **A** - Donald M. Ross Excellence Scholarship (**3,000 CAD**) - 2021
 
 **A** - Martin J. Paetz Memorial Graduate Award in Fisheries Management (**6,100 CAD**) - 2021
@@ -121,6 +125,10 @@ Developed content and individual lesson plans for a 5-week workshop to teach und
 -------------------     ----------------------------
 
 ## COMMUNITY AND LEADERSHIP
+
+**Ecological Society of America Council - Student Representative (Jan 2022 - Dec 2024)**
+
+The ESA Council is a representative body that includes leadership from the disciplinary and geographic units and reflects the diversity of ESA’s members. I represent the student section to the council, and promote student participation in advancing ESA's mission. 
 
 **Education & Outreach Committee Member - Society for Open and Reproducible Ecology & Evolution** (Sept 2020 - Present)
 

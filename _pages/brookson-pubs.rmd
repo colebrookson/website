@@ -1,0 +1,73 @@
+---
+title: "Cole B. Brookson - Publications & Presentations"
+author: "**Tel:** 613-296-0001"
+date: "**Email:** cole.brookson@gmail.com"
+output: pdf_document
+---
+
+-------------------     ----------------------------
+
+## **PUBLICATIONS**
+
+### **In review, or revisions**
+
+Green, S.J., **Brookson, C.B.**, Hardy, N., Crowder, L.B. (*In Review*). Trait-based approaches to global change ecology: from description to prediction, *Proceedings of the Royal Society B: Biological Sciences*
+
+**Brookson, C.B.**, Kirk, D., Rochman, C.M. (*In Revisions*). Combining ecotoxicology and classic ecological
+models to predict the effects of microplastics on the growth and viability of aquatic populations. *Ecology and
+Evolution.*  
+
+### **Published or Accepted**
+
+Bodner, K., Rauen Firkowski, C., Bennett, J., **Brookson, C.**, Dietze, M., Green, S. ... Fortin,M.-J. (*In Press*). Bridging the divide between ecological forecasts and environmental decision-making. *Ecosphere.*
+
+Linardich, C., **Brookson, C.B.**, Green, S.J., (*2021*). Trait-based vulnerability reveals hot spots of
+potential impact for a global marine invader. *Global Change Biology.* *27(18)*. 4322-4338.
+
+**Brookson C.B.**, Krkošek, M., Hunt, B.P.V., Johnson, B.T., Rodgers, L.A., Godwin, S.C. (*2020*). Differential
+infestation of juvenile Pacific salmon by parasitic sea lice in British Columbia, Canada. *Canadian Journal of
+Fisheries and Aquatic Sciences.* *77(12)*, 1960-1968.
+
+**Brookson, C.B.**, de Solla, S.J., Fernie, K.J., Cepeda, M., Rochman, C.M. (*2019*). Microplastics in the diet of
+an obligate piscivore, double-crested cormorants (*Phalacrocorax auratus*), in a freshwater ecosystem.
+*Canadian Journal of Fisheries and Aquatic Sciences.* *76(11)*, 2156-2163.
+
+Rochman, C.M., **Brookson C.B.**, Bikker, J., Djuric, N., Earn, A., Bucci, K., Athey, S., ... , Borrelle, S. (*2019*).
+Rethinking Microplastics as a Diverse Contaminant Suite. *Environmental Toxicology & Chemistry.* *38(4)*, 703-711.
+
+## PRESENTATIONS
+
+***NOTE***: *Italic* font indicates invited speaker.
+
+***American Fisheries Associated Annual Meeting - Online*** (Sept 2020)
+“A trait-based approach to predicting predator-prey dynamics under climate change”
+
+***Canadian Society for Ecology &amp; Evolution Annual Meeting – Edmonton, Canada** (May 2020)
+“Prey-switching as a method of persistence for predatory species under climate change”
+  *Cancelled due to SARS-CoV-2
+
+**North Pacific Maine Science Organization Annual Meeting (PICES) – Victoria, Canada** (Oct 2019)
+“A trait-based approach to predicting predator-prey uncoupling under climate change”
+
+**Ocean Awareness Symposium - David Thomas King School, Edmonton, Canada** (Oct 2019)
+“Living in the Bath Tub – Climate Change and the Effects on our Ocean Ecosystems”
+
+**Canadian Society for Ecology &amp; Evolution Annual Meeting – Fredericton, Canada** (Aug 2019)
+“A combined ecotoxicological and classical ecological modeling approach predicts microplastics may be
+affecting the growth and viability of Daphnia Magna populations in aquatic ecosystems”
+
+**University of Toronto EEB Undergraduate Research Fair - Toronto, Canada** (April 2019)
+“Differential Infection of Juvenile Pacific Salmon by Parasitic Sea Lice”
+
+**University of Toronto Undergraduate Research Conference - Toronto, Canada** (Jan 2019)
+“Microplastics in the diet of an obligate piscivore, double-crested cormorants (*Phalacrocorax auratus*), in a freshwater ecosystem”
+
+**International Science Day - John Fraser SS, Toronto, Canada** (Nov 2018)
+“What’s in the Water? Aquatic Ecology &amp; Ecosystem Conservation in the Age of Plastic”
+
+**University of Toronto EEB Undergraduate Research Fair - Toronto, Canada** (April 2018)
+“The Effects of Climate and Land Use Change on Beta Diversity of Breeding Birds in Southern Ontario.”
+
+**Earth Day Symposium – Humberside CI, Toronto, Canada** (March 2018)
+“Plastic Pollution in Aquatic Ecosystems”
+
