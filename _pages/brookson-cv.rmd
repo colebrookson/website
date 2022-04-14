@@ -6,7 +6,9 @@ output: pdf_document
 ---
 ## **EDUCATION**
 
-**MSc in Ecology** (2019-2021) - 4.0 GPA
+
+**MSc in Ecology** (2019-2022) - 4.0 GPA
+
 University of Alberta, Alberta, Canada  
 *Supervisor:* Dr. Stephanie J. Green
 *Committee:* Dr. Mark A. Lewis
@@ -29,13 +31,13 @@ University of Toronto, Ontario, Canada
 
 ### **In review, or revisions**
 
-Green, S.J., **Brookson, C.B.**, Hardy, N., Crowder, L.B. (*In Review*). Trait-based approaches to global change ecology: from description to prediction, *Proceedings of the Royal Society B: Biological Sciences*
-
 **Brookson, C.B.**, Kirk, D., Rochman, C.M. (*In Revisions*). Combining ecotoxicology and classic ecological
 models to predict the effects of microplastics on the growth and viability of aquatic populations. *Ecology and
 Evolution.*  
 
 ### **Published or Accepted**
+
+Green, S.J., **Brookson, C.B.**, Hardy, N., Crowder, L.B. (*2022*). Trait-based approaches to global change ecology: from description to prediction, *Proceedings of the Royal Society B: Biological Sciences*
 
 Bodner, K., Rauen Firkowski, C., Bennett, J., **Brookson, C.**, Dietze, M., Green, S. ... Fortin,M.-J. (*2021*). Bridging the divide between ecological forecasts and environmental decision-making. *Ecosphere.*
 
@@ -262,7 +264,7 @@ Department of Ecology & Evolutionary Biology, University of Toronto, ON
 
 ## ACADEMIC SERVICE
 
-*Manuscript reviewer for:* Conservation Biology, Journal of Fish Biology, Proceedings of the Royal Society; Biology, PCI Computational Biology 
+*Manuscript reviewer for:* Ecology Letters, Conservation Biology, Journal of Fish Biology, Proceedings of the Royal Society, Biology
 
 *Professional societies:*
 
