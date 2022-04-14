@@ -1,9 +1,10 @@
 ---
 title: "Cole B. Brookson CV"
-date: "2021-09-25"
+date: "2022-01-10"
+header: false
 ---
 
-# Cole Brookson
+# Cole B. Brookson
 **Tel:** 613-296-0001
 **Email:** cole.brookson@gmail.com
 -------------------     ----------------------------
@@ -130,6 +131,14 @@ Developed content and individual lesson plans for a 5-week workshop to teach und
 
 The ESA Council is a representative body that includes leadership from the disciplinary and geographic units and reflects the diversity of ESA’s members. I represent the student section to the council, and promote student participation in advancing ESA's mission. 
 
+**Diversity, Equity, & Inclusion Committee Member - Society for Open and Reproducible Ecology & Evolution (Dec 2021 - Present)**
+
+The DEI committee focuses on advancing SORTEE's mission to make science a more equitable place. My role is as the consultant to the Membership Committee, helping to identify groups that are not equitably represented in the membership, and make recommendations to the membership committee. 
+
+**Advocacy Committee Member - Society for Open and Reproducible Ecology & Evolution (Dec 2021 - Present)**
+
+I work as a project drafter for the committee, identifying projects to promote and advocate for open science initiatives within the Society and more broadly. 
+
 **Education & Outreach Committee Member - Society for Open and Reproducible Ecology & Evolution** (Sept 2020 - Present)
 
 This committee focuses on directing outreach and education initiatives towards members of the scientific community to promote open and accessible research in ecology and evolution. I contribute to program development, annual meeting programming, and developing online resources.
@@ -253,7 +262,7 @@ Department of Ecology & Evolutionary Biology, University of Toronto, ON
 
 ## ACADEMIC SERVICE
 
-*Manuscript reviewer for:* Conservation Biology, Journal of Fish Biology, Proceedings of the Royal Society, Biology
+*Manuscript reviewer for:* Conservation Biology, Journal of Fish Biology, Proceedings of the Royal Society; Biology, PCI Computational Biology 
 
 *Professional societies:*
 

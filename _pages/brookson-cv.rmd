@@ -4,30 +4,24 @@ author: "**Tel:** 613-296-0001"
 date: "**Email:** cole.brookson@gmail.com"
 output: pdf_document
 ---
-
--------------------     ----------------------------
-
 ## **EDUCATION**
 
 **MSc in Ecology** (2019-2021) - 4.0 GPA
-
 University of Alberta, Alberta, Canada  
-
 *Supervisor:* Dr. Stephanie J. Green
-
 *Committee:* Dr. Mark A. Lewis
 
 **Thesis**: "Trait-based models to inform network food web rewiring under global change"
 
 **BSc (Hons) Ecology & Evolutionary Biology** (2014-2019)
-
 University of Toronto, Ontario, Canada
-
 *Minor:* Environmental Biology; *Minor:* Forest Conservation Science  
 
-* EEB499-Independent Research Project 2018-2019. Supervisor: Dr. Martin Krkošek. Investigating the differences in ectoparasite communities of juvenile Pacific Salmon species
-* EEB397-Independent Research Project 2018-2019. Supervisor: Dr. Chelsea Rochman. Investigating the effects of plastic debris exposure on the population dynamics of a freshwater invertebrate, Daphnia magna
-* EEB498-Independent Research Project 2017-2018. Supervisor: Dr. Marie-Josée Fortin. Determining the impact of climate and land cover change on beta diversity patterns on birds in Ontario
+* EEB499-Independent Research Project 2018-2019. *Supervisor*: Dr. Martin Krkošek. Investigating the differences in ectoparasite communities of juvenile Pacific Salmon species
+
+* EEB397-Independent Research Project 2018-2019. *Supervisor*: Dr. Chelsea Rochman. Investigating the effects of plastic debris exposure on the population dynamics of a freshwater invertebrate, Daphnia magna
+
+* EEB498-Independent Research Project 2017-2018. *Supervisor*: Dr. Marie-Josée Fortin. Determining the impact of climate and land cover change on beta diversity patterns on birds in Ontario
 
 -------------------     ----------------------------
 
@@ -43,7 +37,7 @@ Evolution.*
 
 ### **Published or Accepted**
 
-Bodner, K., Rauen Firkowski, C., Bennett, J., **Brookson, C.**, Dietze, M., Green, S. ... Fortin,M.-J. (*In Press*). Bridging the divide between ecological forecasts and environmental decision-making. *Ecosphere.*
+Bodner, K., Rauen Firkowski, C., Bennett, J., **Brookson, C.**, Dietze, M., Green, S. ... Fortin,M.-J. (*2021*). Bridging the divide between ecological forecasts and environmental decision-making. *Ecosphere.*
 
 Linardich, C., **Brookson, C.B.**, Green, S.J., (*2021*). Trait-based vulnerability reveals hot spots of
 potential impact for a global marine invader. *Global Change Biology.* *27(18)*. 4322-4338.
@@ -91,6 +85,8 @@ Developed content and individual lesson plans for a 5-week workshop to teach und
 
 ## **AWARDS (A), RECOGNITION (R), & RESEARCH FUNDING (F)**
 
+**A** - D Alan Birdsall Memorial Scholarship (**7,000 CAD**), University of Alberta - 2022
+
 **A** - Alberta Graduate Excellence Scholarship (**12,000 CAD**), University of Alberta - 2021
 
 **A** - Donald M. Ross Excellence Scholarship (**3,000 CAD**) - 2021
@@ -130,6 +126,18 @@ Developed content and individual lesson plans for a 5-week workshop to teach und
 -------------------     ----------------------------
 
 ## COMMUNITY AND LEADERSHIP
+
+**Ecological Society of America Council - Student Representative (Jan 2022 - Dec 2024)**
+
+The ESA Council is a representative body that includes leadership from the disciplinary and geographic units and reflects the diversity of ESA’s members. I represent the student section to the council, and promote student participation in advancing ESA's mission. 
+
+**Diversity, Equity, & Inclusion Committee Member - Society for Open and Reproducible Ecology & Evolution (Dec 2021 - Present)**
+
+The DEI committee focuses on advancing SORTEE's mission to make science a more equitable place. My role is as the consultant to the Membership Committee, helping to identify groups that are not equitably represented in the membership, and make recommendations to the membership committee. 
+
+**Advocacy Committee Member - Society for Open and Reproducible Ecology & Evolution (Dec 2021 - Present)**
+
+I work as a project drafter for the committee, identifying projects to promote and advocate for open science initiatives within the Society and more broadly. 
 
 **Education & Outreach Committee Member - Society for Open and Reproducible Ecology & Evolution** (Sept 2020 - Present)
 
@@ -225,33 +233,28 @@ Dept. of Ecology & Evolutionary Biology, University of Toronto
 **Volunteer Research Assistant** (March 2018 – July 2018) 
 Supervisor: Dr. Benjamin Gilbert (Kaitlyn Brown) 
 Department of Ecology & Evolutionary Biology, University of Toronto
-
 * Assisted with data collection and analysis for a community ecology experiment examining the effects of species assemblage on plant fitness
 * Managed other undergraduate assistants and coordinated data collection
 
 **Volunteer Research Assistant** (Sept. 2017 – July 2018) 
 Supervisor: Dr. Luke Mahler (Christopher Boccia) 
 Department of Ecology & Evolutionary Biology, University of Toronto
-
 * Performed morphometric landmark analysis and data management and manipulation to investigate how adaptive traits can be used to build an Anolis lizard phylogeny 
 
 **Work-Study Student** (Sept. 2017 – Feb. 2018) 
 Supervisor: Dr. Benjamin Gilbert (Denon Start) 
 Department of Ecology & Evolutionary Biology, University of Toronto, ON
-
 * Assisted with data collection and analysis for a community ecology experiment looking at the effects of species assemblage on plant fitness
 
 **Field Research Assistant** (May 2017 – Sept. 2017) 
 Supervisor: Dr. Spencer Barrett (David Timerman)
 University of Toronto – Koffler Scientific Reserve at Jokers Hill, Newmarket, ON
-
 * Assisted with experimental design, set-up and management of a study looking at the reproductive responses to sex ratio treatments
 * Conducted data entry and management tasks including organizing and analyzing large datasets
 
 **Volunteer Lab Assistant** (Sept. 2016 – April 2017) 
 Supervisor: Dr. Spencer Barrett (David Timerman/Chris Balogh) 
 Department of Ecology & Evolutionary Biology, University of Toronto, ON
-
 * Assisted with greenhouse and lab duties related to maintaining plant stocks and data collection 
 * Performed data analysis and management tasks for a variety of experimental datasets
 
@@ -259,7 +262,7 @@ Department of Ecology & Evolutionary Biology, University of Toronto, ON
 
 ## ACADEMIC SERVICE
 
-*Manuscript reviewer for:* Conservation Biology, Journal of Fish Biology, Proceedings of the Royal Society, Biology
+*Manuscript reviewer for:* Conservation Biology, Journal of Fish Biology, Proceedings of the Royal Society; Biology, PCI Computational Biology 
 
 *Professional societies:*
 
