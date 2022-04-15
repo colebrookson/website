@@ -1,0 +1,17 @@
+/* -----------div tips------------- */
+
+div.nullhyp, div.fyi, div.demo, div.note {
+    padding: 1em;
+    margin: 1em 0;
+    padding-left: 100px;
+    background-size: 70px;
+    background-repeat: no-repeat;
+    background-position: 15px center;
+    min-height: 120px;
+    color: #1f5386;
+    background-color: #bebebe;
+    border: solid 5px #d3d3d3;
+}
+div.nullhyp {
+  background-image: url("speech-bubble.png");
+}

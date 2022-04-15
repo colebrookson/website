@@ -3,7 +3,7 @@ title: "Cole Brookson - R Software Manual Developer Application Materials"
 author: "Cole B. Brookson"
 date: "`r Sys.Date()`"
 output:
-  pdf_document:
+  html_document:
     css: style.css
 ---
 
@@ -38,7 +38,7 @@ the y-intercept isn’t of interest, we can think of the simplest regression fra
 
 So as usual, we will start by loading the required packages for this activity. To perform a simple linear regression, we can use the `stats` package which comes pre-loaded. We will want two additional packages, we'll use the `tidyverse` package to organize our data and plot, then we'll also use the `lterdatasampler` package to load in some data for this task. 
 
-```{r}
+```{r, warning=FALSE, echo=TRUE, message=FALSE}
 # install packages if needed
 #install.packages("tidyverse")
 #remotes::install_github("lter/lterdatasampler")
@@ -55,13 +55,11 @@ head(pie_crab)
 ```
 To avoid p-hacking ourselves (see Appendix 1 for a review of p-hacking), we need to first develop a hypothesis that we're going to use our linear regression to test. A classic theory in ecology is [Bergmann's Rule](https://www.britannica.com/science/Bergmanns-Rule). Given the premise of the rule, we might expect this to happen within species, so let's test this with our fiddler crabs! 
 
-> **_NULL HYPOTHESIS:_**  To ensure we are going about this properly, let's state our biological null hypothesis. *Our null hypothesis is that there is NO significant positive relationship between latitude and the size of fiddler crabs.*. Now, let's think about what this means statistically. In our regression framework, remember we're thinking about **slope** of a line. A lack of a relationship is denoted by a slope of zero, but to reject our null hypothesis, we  need a *positive* relationship since Bergmann's Rule states that body size *increases* as temperature (and therefore latitude) decreases! We can *reject our null hypothesis* (recall we can never accept a hypothesis, only reject the null!!) if the slope of our regression line is significantly different than zero in the positive direction.
-
-
-
-#### Null Hypothesis
-
+:::nullhyp
+#### Null hypothesis:
 To ensure we are going about this properly, let's state our biological null hypothesis. *Our null hypothesis is that there is NO significant positive relationship between latitude and the size of fiddler crabs.*. Now, let's think about what this means statistically. In our regression framework, remember we're thinking about **slope** of a line. A lack of a relationship is denoted by a slope of zero, but to reject our null hypothesis, we  need a *positive* relationship since Bergmann's Rule states that body size *increases* as temperature (and therefore latitude) decreases! We can *reject our null hypothesis* (recall we can never accept a hypothesis, only reject the null!!) if the slope of our regression line is significantly different than zero in the positive direction.
+:::
+
 
 
 
