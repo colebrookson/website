@@ -7,7 +7,7 @@ output: pdf_document
 ## **EDUCATION**
 
 
-**MSc in Ecology** (2019-2022) - 4.0 GPA
+**MSc in Ecology** (2019-2023) - 4.0 GPA
 
 University of Alberta, Alberta, Canada  
 *Supervisor:* Dr. Stephanie J. Green
@@ -57,6 +57,29 @@ an obligate piscivore, double-crested cormorants (*Phalacrocorax auratus*), in a
 
 1. Rochman, C.M., **Brookson C.B.**, Bikker, J., Djuric, N., Earn, A., Bucci, K., Athey, S., ... , Borrelle, S. (*2019*).
 Rethinking Microplastics as a Diverse Contaminant Suite. *Environmental Toxicology & Chemistry.* *38(4)*, 703-711.
+
+-------------------     ----------------------------
+## **RESEARCH CONTRACTING & CONSULTING**
+
+**Statistical Modeling Consultant** (January - October 2022)
+Mamalilikulla, the ‘Namgis, and the Kwikwasut’lnuxw Haxwa’mis First Nations
+
+Served as a statistical modeling consultant, performing stock-recruit modeling for wild pink salmon populations in the Nations' waters, to assess the impact of fin-fish aquaculture on the health of these populations, with intent to support policy decisions surrounding the possible removal of aquaculture farms. 
+
+**Pedagogy & Teaching Contractor** (May 2022 - May 2023)
+Department of Ecology & Evolutionary Biology, University of Toronto
+
+Developed and wrote material for the "R Manual", an EEB-focused learning resource for undergraduate students beginning to learn R. This included writing content and designing short lessons, with examples, skill-testing questions, and other supplementary content, while researching and implementing best practices with respect to R and programming pedagogy. Also built and maintained a website for the delivery of said content. 
+
+**Statistical Software Contractor** (October 2022 - February 2023)
+Dr. Marie-Josee Fortin, University of Toronto
+
+Developed an R package to perform spatial boundary detection for spatial statistics, using the Wombling method to determine location and strength of boundaries. 
+
+**Statistical Modeling Consultant** (October 2022 - June 2023)
+Kitasoo/Xais'xais First Nation
+
+Served as a statistical modeling consultant, performing stock-recruit modeling for wild salmon populations in the Nation's waters, to assess the impact of fin-fish aquaculture on the health of these populations. This analysis focused on pink, chum, and chinook salmon.
 
 -------------------     ----------------------------
 
@@ -117,9 +140,11 @@ Developed content and individual lesson plans for a 5-week workshop to teach und
 
 ## **AWARDS (A), RECOGNITION (R), & RESEARCH FUNDING (F)**
 
-**A** - NSERC Canada Graduate Scholarship - Doctoral (**105,000**) - 2022
+**A** - NSERC Canada Graduate Scholarship-Doctoral (**105,00 CAD**) - 2022
 
 **A** - D Alan Birdsall Memorial Scholarship (**7,000 CAD**), University of Alberta - 2022
+
+**R** - University of Alberta Excellence in Teaching Award (non-monetary) - 2021
 
 **A** - Alberta Graduate Excellence Scholarship (**12,000 CAD**), University of Alberta - 2021
 
@@ -165,15 +190,15 @@ Developed content and individual lesson plans for a 5-week workshop to teach und
 
 The ESA Council is a representative body that includes leadership from the disciplinary and geographic units and reflects the diversity of ESA’s members. I represent the student section to the council, and promote student participation in advancing ESA's mission. 
 
-**Diversity, Equity, & Inclusion Committee Member - Society for Open and Reproducible Ecology & Evolution (Dec 2021 - Present)**
+**Diversity, Equity, & Inclusion Committee Member - Society for Open and Reproducible Ecology & Evolution (Dec 2021 - Dec 2022)**
 
 The DEI committee focuses on advancing SORTEE's mission to make science a more equitable place. My role is as the consultant to the Membership Committee, helping to identify groups that are not equitably represented in the membership, and make recommendations to the membership committee. 
 
-**Advocacy Committee Member - Society for Open and Reproducible Ecology & Evolution (Dec 2021 - Present)**
+**Advocacy Committee Member - Society for Open and Reproducible Ecology & Evolution (Dec 2021 - Dec 2022)**
 
 I work as a project drafter for the committee, identifying projects to promote and advocate for open science initiatives within the Society and more broadly. 
 
-**Education & Outreach Committee Member - Society for Open and Reproducible Ecology & Evolution** (Sept 2020 - Present)
+**Education & Outreach Committee Member - Society for Open and Reproducible Ecology & Evolution** (Sept 2020 - Sept 2021)
 
 This committee focuses on directing outreach and education initiatives towards members of the scientific community to promote open and accessible research in ecology and evolution. I contribute to program development, annual meeting programming, and developing online resources.
 
