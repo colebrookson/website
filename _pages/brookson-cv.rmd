@@ -13,7 +13,7 @@ University of Alberta, Alberta, Canada
 *Supervisor:* Dr. Stephanie J. Green
 *Committee:* Dr. Mark A. Lewis
 
-**Thesis**: "Trait-based models to inform network food web rewiring under global change"
+*Thesis*: "Trait-based models to inform network food web rewiring under global change"
 
 **BSc (Hons) Ecology & Evolutionary Biology** (2014-2019)
 University of Toronto, Ontario, Canada
@@ -31,29 +31,58 @@ University of Toronto, Ontario, Canada
 
 ### **In review, or revisions**
 
-**Brookson, C.B.**, Kirk, D., Rochman, C.M. (*In Revisions*). Combining ecotoxicology and classic ecological
-models to predict the effects of microplastics on the growth and viability of aquatic populations. *Ecology and
-Evolution.*  
+9. **Brookson, C.B.**, Kirk, D., Rochman, C.M. (*In Revisions*). Combining ecotoxicology and classic ecological
+models to predict the effects of microplastics on the growth and viability of aquatic populations. *Ecology and Evolution.*  
+
+8. Crystal-Ornelas, R., Edwards, B.P.M., ... **Brookson, C.B.,**, et al. (*In Review*) Not just for programmers: How GitHub can accelerate collaborative and reproducible research in ecology and evolution. *Methods in Ecology & Evolution*
 
 ### **Published or Accepted**
 
-Green, S.J., **Brookson, C.B.**, Hardy, N., Crowder, L.B. (*2022*). Trait-based approaches to global change ecology: from description to prediction, *Proceedings of the Royal Society B: Biological Sciences*
+7. Lewis, A., Rollinson, C., Allyn, A., Ashander, J., Brodei, S., **Brookson, C.B.,**, ..., Wardle, G. (*2022*). The power of forecasts to advance ecological theory. *Methods in Ecology & Evolution.*
 
-Bodner, K., Rauen Firkowski, C., Bennett, J., **Brookson, C.**, Dietze, M., Green, S. ... Fortin,M.-J. (*2021*). Bridging the divide between ecological forecasts and environmental decision-making. *Ecosphere.*
+6. Green, S.J., **Brookson, C.B.**, Hardy, N., Crowder, L.B. (*2022*). Trait-based approaches to global change ecology: from description to prediction, *Proceedings of the Royal Society B: Biological Sciences*
 
-Linardich, C., **Brookson, C.B.**, Green, S.J., (*2021*). Trait-based vulnerability reveals hot spots of
+5. Bodner, K., Rauen Firkowski, C., Bennett, J., **Brookson, C.**, Dietze, M., Green, S. ... Fortin,M.-J. (*2021*). Bridging the divide between ecological forecasts and environmental decision-making. *Ecosphere.*
+
+4. Linardich, C., **Brookson, C.B.**, Green, S.J., (*2021*). Trait-based vulnerability reveals hot spots of
 potential impact for a global marine invader. *Global Change Biology.* *27(18)*. 4322-4338.
 
-**Brookson C.B.**, Krkošek, M., Hunt, B.P.V., Johnson, B.T., Rodgers, L.A., Godwin, S.C. (*2020*). Differential
+3. **Brookson C.B.**, Krkošek, M., Hunt, B.P.V., Johnson, B.T., Rodgers, L.A., Godwin, S.C. (*2020*). Differential
 infestation of juvenile Pacific salmon by parasitic sea lice in British Columbia, Canada. *Canadian Journal of
 Fisheries and Aquatic Sciences.* *77(12)*, 1960-1968.
 
-**Brookson, C.B.**, de Solla, S.J., Fernie, K.J., Cepeda, M., Rochman, C.M. (*2019*). Microplastics in the diet of
+2. **Brookson, C.B.**, de Solla, S.J., Fernie, K.J., Cepeda, M., Rochman, C.M. (*2019*). Microplastics in the diet of
 an obligate piscivore, double-crested cormorants (*Phalacrocorax auratus*), in a freshwater ecosystem.
 *Canadian Journal of Fisheries and Aquatic Sciences.* *76(11)*, 2156-2163.
 
-Rochman, C.M., **Brookson C.B.**, Bikker, J., Djuric, N., Earn, A., Bucci, K., Athey, S., ... , Borrelle, S. (*2019*).
+1. Rochman, C.M., **Brookson C.B.**, Bikker, J., Djuric, N., Earn, A., Bucci, K., Athey, S., ... , Borrelle, S. (*2019*).
 Rethinking Microplastics as a Diverse Contaminant Suite. *Environmental Toxicology & Chemistry.* *38(4)*, 703-711.
+
+-------------------     ----------------------------
+
+## **RESEARCH & CONSULTING**
+
+**Consultant** - October 2022 - Present
+*Kitasoo Xai'xais First Nation* (British Columbia, Canada)
+
+Statistical modelling consultant, working on a project to build a model for the effect of sea lice from farmed salmon on juvenile salmon on the central coast of British Columbia. Tasks include building reproducible software tools, acquiring and cleaning data, and fitting statistical models. 
+
+**Software Package Developer** - September 2022 - Present
+*University of Toronto Department of Ecology & Evolutionary Biology* (Toronto, Canada)
+*Supervisor: Dr. Marie-Josée Fortin*
+
+Consulted building a package to perform spatial statistics in R, specifically to implement developed algorithms to detect boundaries. Duties included writing methods and developing a package for CRAN that implements Wombling method to identify local variation for the detection of spatial boundaries in raster data. 
+
+**Software Developer & Teaching** - May 2022 - Present
+*University of Toronto Department of Ecology & Evolutionary Biology* (Toronto, Canada)
+*Supervisors: Dr. Shelby Riskin & Dr. Jacqueline Sztepanacz*
+
+Software developer and teaching content creator, building a department-wide resource "The R Manual" to transform the computational curriculum in the department. Tasks include building a website to house the content, creating teaching and learning content for students between 1st year undergrad and beginning graduate students to learn R and statistical programming. Also participated in developing and implementing a pedagogical study investigating the effectiveness of such a tool on computational literacy in undergraduate students. 
+
+**Consultant** - January 2022 - September 2022
+*Mamalilikulla, ‘Namgis, and Kwikwasut’lnuxw Haxwa’mis First Nations* (British Columbia, Canada)
+
+Statistical & computing consultant, working on a project to update stock-recruit models investigating the effect of sea lice on wild juvenile salmon in the Broughton Archipeligo. Tasks include building reproducible software tools, acquiring and cleaning data, and fitting statistical models. 
 
 -------------------     ----------------------------
 
@@ -83,9 +112,12 @@ Developed content and individual lesson plans for a 5-week workshop to teach und
 
 Developed content and individual lesson plans for a 5-week workshop to teach undergraduate students tools for data management and manipulation, best practices in script management, foundational programming skills, and data visualization in Python. Delivered and co-taught a mixed asynchronous/synchronous remote lecture mixture to accommodate students. Built and maintained a website for course website. Created stand-alone reference documents and live-coded videos for the series.
 
+
 -------------------     ----------------------------
 
 ## **AWARDS (A), RECOGNITION (R), & RESEARCH FUNDING (F)**
+
+**A** - NSERC Canada Graduate Scholarship - Doctoral (**105,000**) - 2022
 
 **A** - D Alan Birdsall Memorial Scholarship (**7,000 CAD**), University of Alberta - 2022
 
@@ -318,10 +350,30 @@ affecting the growth and viability of Daphnia Magna populations in aquatic ecosy
 
 ## SKILLS & CERTIFICATIONS
 
+Fluent use of R, Python, Julia, MATLAB, HTML/CSS, and ArcGIS software, experience with C/C++, Mathematica, HTML, SQL, Java, JavaScript, and RShiny
+
 Proficient use of Fourier Transform Infrared Spectroscopy (FTIR, Bruker 2018) technologies
 
-Fluent use of R, Python, Julia, MATLAB, and ArcGIS software, experience with C/C++, Mathematica, Java, JavaScript, and RShiny
+Diversity Practitioner (National Diversity Council 2018)
 
-Ontario ‘G’ Licence (Ontario Ministry of Transportation, 2017), Pleasure Craft Operator Card (Transport Canada, 2018), Standard First Aid & CPR / AED Level C (Red Cross, 2015)
 
-Diversity Practitioner (National Diversity Council 2018), SmartServe Certification (Liquor Control Board of Ontario, 2015)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
