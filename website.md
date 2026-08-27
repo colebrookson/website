@@ -1,4 +1,4 @@
-# Mizi
+# Cole Brookson
 ## About
 ###  
 This site was generated using this file: [website.md](https://raw.githubusercontent.com/AbstractXan/Mizi/master/src/website.md)
