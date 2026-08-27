@@ -1,7 +1,7 @@
 # Cole Brookson
 ## About
 ###  
-This site was generated using this file: [website.md](https://raw.githubusercontent.com/AbstractXan/Mizi/master/src/website.md)
+Hi! I'm a PhD Canidate in [Colin Carlson's lab](https://www.carlsonlab.bio/) at Yale University. I work mostly on problems involving climate change, infectious diseases, and disease ecology. On this website is an overview of some of my research interests / projects, an aspirationally up-to-date version of my CV, and some other pieces of writing.
 
 [Read more](https://github.com/abstractxan/mizi) about Mizi
 
