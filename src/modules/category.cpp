@@ -51,7 +51,7 @@ Category **createCategories(Category *Categories[16], int *categoryCount, string
             // All the magic happens here
             line = parseLinks(line, path, TemplateMgr);
 
-
+            // Seperate pages
             if (line.substr(i, 5) == "# $$$")
             {
                 // Separate page
@@ -87,7 +87,15 @@ Category **createCategories(Category *Categories[16], int *categoryCount, string
                         printError(lineNo, "No Category assigned!");
                         return NULL;
                     }
-                    currentPage = createPage(line.substr(i + 1, line.size() - i));
+
+                    // NEW FEATURE TEST
+                    string pageNameAndDescription = line.substr(i + 1, line.size() - i);
+                    vector<string> ss = tokenizer(pageNameAndDescription, "|");
+                    string pageName = ss.at(0);
+                    string pageDesc = ss.size() > 1 ? ss.at(1) : " ";
+                    //
+
+                    currentPage = createPage(pageName, pageDesc);
                     addPage(currentCategory, currentPage);
                     uList = false;
                 }
@@ -115,8 +123,13 @@ Category **createCategories(Category *Categories[16], int *categoryCount, string
             else
             { // No headings: Plaintext
 
+                // Quote
+                if (line[i] == '>')
+                {
+                    currentPartDesc = currentPartDesc + "<quote>" + line.substr(i + 1, line.size() - i) + "</quote>";
+                }
                 // Ul
-                if (line[i] == '-')
+                else if (line[i] == '-')
                 {
                     i++;
                     // If not in a ul

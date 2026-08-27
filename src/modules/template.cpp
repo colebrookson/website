@@ -34,7 +34,7 @@ void TemplateManager::provisionTemplates(std::string templatefile)
             size_t i = 0;
 
             if (line.size() < 1)
-                continue; //blanks
+                continue; // blanks
 
             // if @@ => start/end of template
             bool isTemplateStartOrEnd = (line[i] == '@' && line[i + 1] == '@');
@@ -66,7 +66,7 @@ void TemplateManager::provisionTemplates(std::string templatefile)
             else if (isParsingTemplate)
             {
 
-                //cout << "Parsing :  " << line << endl;
+                // cout << "Parsing :  " << line << endl;
                 parseAndSaveTemplateContent(currTemplate, line, hasMultipleLines);
                 if (!hasMultipleLines)
                 {
@@ -84,7 +84,7 @@ void TemplateManager::provisionTemplates(std::string templatefile)
 
 /**
  * @brief Try to render template from given string
- * 
+ *
  * @param templateText String of format "template arg1=value1 arg2=value2"
  * @return String generated from template. If template, not found
  */
@@ -134,7 +134,7 @@ std::unordered_map<std::string, std::string> *generateTemplateArgValueMap(std::v
 /**
  * Parses a line inside template body in template.txt
  * Saves parsed text and args into the template
- * @param template_ptr 
+ * @param template_ptr
  * @param TemplateText
  * @param isMultiLine True when given line isn't the first line in template
  * @return void
@@ -173,7 +173,7 @@ void parseAndSaveTemplateContent(Template *template_ptr, std::string content, bo
                 i++;
             }
 
-            //Complete parsing an arg when we see '$$' at the end
+            // Complete parsing an arg when we see '$$' at the end
             argParseSuccessful = !hasSpace && (i + 1 < lineSize && content[i] == '$' && content[i + 1] == '$');
 
             if (argParseSuccessful && arg != "")
@@ -205,10 +205,10 @@ void parseAndSaveTemplateContent(Template *template_ptr, std::string content, bo
 
 /**
  * @brief Render a template with given arguments and their values
- * 
+ *
  * @param template_ptr Pointer to template
  * @param argValMap Map of arguments and values from text
- * @return std::string 
+ * @return std::string
  */
 std::string renderTemplate(Template *template_ptr, std::unordered_map<std::string, std::string> *argValMap)
 {
@@ -218,8 +218,8 @@ std::string renderTemplate(Template *template_ptr, std::unordered_map<std::strin
     for (size_t index = 0; index < template_ptr->textContentList.size(); index++)
     {
 
-        //Debug: printVector(template_ptr->textContentList);
-        //Debug: printVector(template_ptr->argContentList);
+        // Debug: printVector(template_ptr->textContentList);
+        // Debug: printVector(template_ptr->argContentList);
 
         ret += template_ptr->textContentList[index];
 

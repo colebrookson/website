@@ -8,10 +8,11 @@
 
 using namespace std;
 
-Page *createPage(string title)
+Page *createPage(string title, string desc)
 {
   Page *newpage = new Page;
   newpage->title = title;
+  newpage->description = desc;
   newpage->partsCount = 0;
   return newpage;
 }
@@ -22,7 +23,7 @@ void addPart(Page *page, string name)
   page->partsCount++;
 }
 
-void buildPage(Config *conf, Page *page, string path)
+void buildPage(Config *conf, Page *page, string path, string nav)
 {
   ofstream htmlPage;
   string filename = toLowerCase(page->title);
@@ -30,10 +31,13 @@ void buildPage(Config *conf, Page *page, string path)
   htmlPage.open(filepath.c_str());
   htmlPage << html_head(conf, page->title);
   htmlPage << getHeader(conf);
-  htmlPage << "<main class='page'>" << "\n";
+
+  htmlPage << "<nav><details open><summary>Menu</summary><section class='site-nav'>" << nav << "</section></details></nav>" << "\n";
+
+  htmlPage << "<body class='" + page->title + "'>\n" + "<main class='page'>" << "\n";
   htmlPage << "<h1>" << page->title << "</h1>\n";
 
-  if (page->partsCount >= 3)
+  if (page->partsCount >= 5)
   {
     htmlPage << "<ul class='jump'>\n";
     for (int i = 0; i < page->partsCount; i++)

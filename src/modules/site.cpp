@@ -27,10 +27,10 @@ void createSite(string filename, string path)
   cats = createCategories(Categories, &categoryCount, filename, path, &TemplateMgr);
 
   // Debug categories
-  cout << "\nCategories found: " << categoryCount << endl;
+  // cout << "\nCategories found: " << categoryCount << endl;
   // printContent(cats,categoryCount);
 
-  buildHome(conf, cats, categoryCount, path);
+  string nav = buildHome(conf, cats, categoryCount, path);
   for (int i = 0; i <= categoryCount; i++)
   { // Build all pages including seperate pages
     Category tempCat = *cats[i];
@@ -38,7 +38,7 @@ void createSite(string filename, string path)
     for (int pageno = 0; pageno < tempCat.pageCount; pageno++)
     {
       Page *tempPage = tempCat.pages[pageno];
-      buildPage(conf, tempPage, path);
+      buildPage(conf, tempPage, path, nav);
     }
   }
 }

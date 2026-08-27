@@ -21,7 +21,7 @@ string toLowerCase(string text)
             break;
         else if (text[i] == ' ')
             newtext += '_';
-        else if ((text[i] >= 'A' && text[i] <= 'Z') || (text[i] >= 'a' && text[i] <= 'z')) //alphabets
+        else if ((text[i] >= 'A' && text[i] <= 'Z') || (text[i] >= 'a' && text[i] <= 'z')) // alphabets
             newtext += getLower(text[i]);
         else if (text[i] >= '0' && text[i] <= '9')
             newtext += text[i];
@@ -34,7 +34,7 @@ void printError(int linenumber, string text)
     cout << "Error at line " << linenumber << ". " << text << endl;
 }
 
-/** 
+/**
  * Tokenizes string based on delims
  * @param stringPtr
  * @param delims Default value = " "
@@ -181,7 +181,7 @@ string parseLinks(string text, string path, TemplateManager *templateMgr)
                         if (isImage)
                         {
                             index++;
-                            newText += "<img src='" + url + "' alt='" + urlText + "'>";
+                            newText += "<img src='" + url + "' alt='" + urlText + "' loading='lazy'>";
                         }
                         else
                         {
@@ -251,7 +251,7 @@ void checkProjectFileStructure(Config *conf)
 }
 
 /**
- * @brief Create a File If DNE 
+ * @brief Create a File If DNE
  * @param path Path to the file
  * @param defaultData (optional) Default data used to create new file
  */
@@ -261,7 +261,8 @@ void createFileIfDNE(std::string path, std::string defaultData = "")
 
     if (!file.is_open())
     {
-        cout << endl << "File '" + path + "' not found. Generating...";
+        cout << endl
+             << "File '" + path + "' not found. Generating...";
         std::fstream fileWrite(path.data(), std::ios_base::app);
         fileWrite.write(defaultData.data(), defaultData.size());
         fileWrite.close();
